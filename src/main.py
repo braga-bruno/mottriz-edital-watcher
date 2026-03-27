@@ -5,6 +5,7 @@ import sys
 from datetime import datetime
 
 from src.filter import filtrar_editais
+from src.monitor import verificar_monitoramentos
 from src.notify import notificar_edital
 from src.scraper import FONTES
 from src.state import (
@@ -30,6 +31,9 @@ def main():
     state = carregar_state()
     state = processar_comandos(state)
     state["erros_ultima_execucao"] = []
+
+    # Verificar monitoramentos de resultado
+    state = verificar_monitoramentos(state)
 
     # Scraping de todas as fontes
     todos_editais = []

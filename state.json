@@ -76,6 +76,15 @@
       "notas": ""
     }
   },
+  "monitoramentos": {
+    "https://paraiba.pb.gov.br/diretas/secretaria-da-cultura/editais/editais-pnab-1/edital-de-fomento-a-projetos-de-musica": {
+      "titulo": "PNAB — Edital de Fomento a Projetos de Música (Secult-PB)",
+      "fonte": "Secult-PB",
+      "adicionado_em": "2026-03-27",
+      "status": "aguardando_resultado",
+      "hash_conteudo": null
+    }
+  },
   "erros_ultima_execucao": [
     {
       "fonte": "Instituto Energisa",
