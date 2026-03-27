@@ -1,5 +1,101 @@
 {
-  "last_run": null,
-  "editais": {},
-  "erros_ultima_execucao": []
+  "last_run": "2026-03-27T17:24:48.048003",
+  "editais": {
+    "cf3dfabef66c732368819c842c05124a": {
+      "titulo": "Edital 008/2024 - Seleção de propostas artísticas para programação musical do 38º Salão de Artesanato Paraibano",
+      "fonte": "Funesc-PB",
+      "url": "https://funesc.pb.gov.br/editais/edital-008-2024-selecao-de-propostas-artisticas-para-programacao-musical-do-38o-salao-de-artesanato-paraibano",
+      "encontrado_em": "2026-03-27",
+      "status": "notificado",
+      "prazo": null,
+      "notas": ""
+    },
+    "80a0961ca768b734eab4850181e471ae": {
+      "titulo": "EDITAL DE CHAMAMENTO PÚBLICO Nº 001/2026 - FOMENTO PARA LINGUAGENS ARTÍSTICO-CULTURAIS DO MUNICÍPIO DE IBIAPINA - POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA (PNAB)",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7629",
+      "encontrado_em": "2026-03-27",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-04-16 12:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "02d0b4c4818a744efac664d2b32f1416": {
+      "titulo": "EDITAL VOZES E SABERES POPULAR - ARTE CULTURA E IDENTIDADE DO MUNICÍPIO DE DEPUTADO IRAPUAN PINHEIRO",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7621",
+      "encontrado_em": "2026-03-27",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-03-27 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "686a57ac59cbcf9926258eac680103d1": {
+      "titulo": "EDITAL ICAPUÍ DAS ARTES 2026: DE FOMENTO ÀS AÇÕES DE FORMAÇÃO E CIRCULAÇÃO CULTURAL - APOIO DIRETO A PROJETOS",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7598",
+      "encontrado_em": "2026-03-27",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-05-01 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "b605cf46188eaaae60c9950a221c2786": {
+      "titulo": "EDITAL PARA CONHECIMENTO PÚBLICO - SELEÇÃO DE OSC (ORGANIZAÇÃO DA SOCIEDADE CIVIL) - PNAB - 2026/CICLO.2 - SECULTFOR",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7582",
+      "encontrado_em": "2026-03-27",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-04-20 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "8ebae29c46bbe7a4cd26c69e6d729642": {
+      "titulo": "EDITAL DE CHAMAMENTO PÚBLICO PARA CONCESSÃO DE BOLSAS CULTURA VIVA A MESTRAS E MESTRES DAS CULTURAS TRADICIONAIS E POPULARES",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7578",
+      "encontrado_em": "2026-03-27",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-04-10 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    }
+  },
+  "erros_ultima_execucao": [
+    {
+      "fonte": "Instituto Energisa",
+      "erro": "Falha ao acessar Instituto Energisa",
+      "timestamp": "2026-03-27T17:24:07.863653"
+    },
+    {
+      "fonte": "Secult-PE",
+      "erro": "Falha ao acessar Secult-PE",
+      "timestamp": "2026-03-27T17:24:10.009161"
+    },
+    {
+      "fonte": "Mapa Cultural PE",
+      "erro": "Falha ao acessar API Mapa Cultural PE",
+      "timestamp": "2026-03-27T17:24:41.142817"
+    },
+    {
+      "fonte": "Mapa da Cultura (MinC)",
+      "erro": "Falha ao acessar API Mapa da Cultura (MinC)",
+      "timestamp": "2026-03-27T17:24:43.978550"
+    }
+  ]
 }
