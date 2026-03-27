@@ -162,13 +162,26 @@ def scrape_viva_usina() -> list[Edital]:
     if not soup:
         raise ConnectionError(f"Falha ao acessar {fonte}")
 
+    kws = ["edital", "chamada", "seleção", "selecao", "inscrição",
+           "inscricao", "convocatória", "proposta", "criativa"]
+
     for link_tag in soup.find_all("a", href=True):
         texto = link_tag.get_text(strip=True)
         href = link_tag["href"]
-        if any(kw in texto.lower() for kw in ["edital", "chamada", "seleção", "inscrição", "convocatória"]):
-            editais.append(Edital(
-                titulo=texto, fonte=fonte, url=urljoin(url, href)
-            ))
+        if not any(kw in texto.lower() for kw in kws):
+            continue
+        link = urljoin(url, href)
+        # Ignorar links externos (patrocinadores, etc.)
+        if "vivausina.com" not in link:
+            continue
+        # Busca conteúdo do post para enriquecer a descrição
+        desc = ""
+        post_soup = _get(link)
+        if post_soup:
+            for tag in post_soup.select("nav, header, footer, script, style"):
+                tag.decompose()
+            desc = post_soup.get_text(separator=" ", strip=True)[:500]
+        editais.append(Edital(titulo=texto, fonte=fonte, url=link, descricao=desc))
 
     return editais
 

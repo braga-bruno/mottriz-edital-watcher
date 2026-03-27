@@ -2,7 +2,7 @@ name: Monitor Editais
 
 on:
   schedule:
-    - cron: '0 9 * * *'   # todo dia às 06h (horário de Brasília = UTC-3)
+    - cron: '0 13 * * *'  # todo dia às 10h (horário de Brasília = UTC-3)
   workflow_dispatch:        # permite rodar manualmente
 
 jobs:

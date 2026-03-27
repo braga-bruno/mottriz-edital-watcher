@@ -1,6 +1,8 @@
 """Filtragem de relevância dos editais para a Mottriz."""
 
-import re
+from __future__ import annotations
+
+from typing import List
 
 from src.scraper import Edital
 
@@ -9,6 +11,7 @@ KEYWORDS_TIPO = [
     "música", "musica", "show", "banda", "circulação", "circulacao",
     "apresentação", "apresentacao", "rock", "popular", "autoral",
     "produção musical", "producao musical", "gravação", "gravacao",
+    "criativa", "artística", "artistica", "cultural", "proposta",
 ]
 
 # Grupo B — Abrangência geográfica (pelo menos um deve aparecer)
@@ -17,6 +20,11 @@ KEYWORDS_GEO = [
     "nacional", "todo o brasil", "todo brasil", "abrangência nacional",
 ]
 
+# Fontes que são inerentemente locais (PB) — passam Grupo B automaticamente
+FONTES_LOCAIS_PB = {
+    "Secult-PB", "Funesc-PB", "Viva Usina", "Paraíba Criativa", "Instituto Energisa",
+}
+
 # Grupo C — Exclusão (se presente SEM "música", é descartado)
 EXCLUSOES = [
     "teatro", "artes visuais", "dança", "danca", "circo", "literatura",
@@ -24,18 +32,15 @@ EXCLUSOES = [
 
 
 def _normalizar(texto: str) -> str:
-    """Normaliza texto para comparação case-insensitive."""
     return texto.lower().strip()
 
 
-def _contem_keyword(texto: str, keywords: list[str]) -> bool:
-    """Verifica se o texto contém pelo menos uma keyword."""
+def _contem_keyword(texto: str, keywords: List[str]) -> bool:
     texto_norm = _normalizar(texto)
     return any(kw in texto_norm for kw in keywords)
 
 
 def _excluido(texto: str) -> bool:
-    """Verifica se o edital deve ser excluído (categoria incompatível sem menção a música)."""
     texto_norm = _normalizar(texto)
     tem_musica = "música" in texto_norm or "musica" in texto_norm
     if tem_musica:
@@ -54,12 +59,12 @@ def edital_relevante(edital: Edital) -> bool:
     # Grupo A — Tipo de projeto
     tem_tipo = _contem_keyword(texto_completo, KEYWORDS_TIPO)
 
-    # Grupo B — Abrangência geográfica
-    tem_geo = _contem_keyword(texto_completo, KEYWORDS_GEO)
+    # Grupo B — fontes locais PB passam automaticamente; demais checam keywords
+    tem_geo = edital.fonte in FONTES_LOCAIS_PB or _contem_keyword(texto_completo, KEYWORDS_GEO)
 
     return tem_tipo and tem_geo
 
 
-def filtrar_editais(editais: list[Edital]) -> list[Edital]:
+def filtrar_editais(editais: List[Edital]) -> List[Edital]:
     """Filtra lista de editais, retornando apenas os relevantes."""
     return [e for e in editais if edital_relevante(e)]
