@@ -92,13 +92,6 @@
       "adicionado_em": "2026-03-27",
       "status": "aguardando_resultado",
       "hash_conteudo": null
-    },
-    "https://www.vivausina.com": {
-      "titulo": "Viva Usina — Novos Editais (site Wix, detecção por hash)",
-      "fonte": "Viva Usina",
-      "adicionado_em": "2026-03-27",
-      "status": "monitorando",
-      "hash_conteudo": null
     }
   },
   "erros_ultima_execucao": [
