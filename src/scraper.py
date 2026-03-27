@@ -153,37 +153,13 @@ def scrape_funesc() -> list[Edital]:
 
 
 def scrape_viva_usina() -> list[Edital]:
-    """Viva Usina — espaço cultural de João Pessoa."""
-    url = "https://vivausina.com"
-    fonte = "Viva Usina"
-    editais = []
+    """Viva Usina — site Wix (JS-rendered), monitorado via hash no monitor.py.
 
-    soup = _get(url)
-    if not soup:
-        raise ConnectionError(f"Falha ao acessar {fonte}")
-
-    kws = ["edital", "chamada", "seleção", "selecao", "inscrição",
-           "inscricao", "convocatória", "proposta", "criativa"]
-
-    for link_tag in soup.find_all("a", href=True):
-        texto = link_tag.get_text(strip=True)
-        href = link_tag["href"]
-        if not any(kw in texto.lower() for kw in kws):
-            continue
-        link = urljoin(url, href)
-        # Ignorar links externos (patrocinadores, etc.)
-        if "vivausina.com" not in link:
-            continue
-        # Busca conteúdo do post para enriquecer a descrição
-        desc = ""
-        post_soup = _get(link)
-        if post_soup:
-            for tag in post_soup.select("nav, header, footer, script, style"):
-                tag.decompose()
-            desc = post_soup.get_text(separator=" ", strip=True)[:500]
-        editais.append(Edital(titulo=texto, fonte=fonte, url=link, descricao=desc))
-
-    return editais
+    Retorna lista vazia; a detecção de novos editais é feita por mudança de
+    hash da homepage em monitor.py (entrada 'monitoramentos' do state.json).
+    """
+    logger.info("Viva Usina: site Wix (JS-rendered) — monitorado via hash.")
+    return []
 
 
 def scrape_energisa() -> list[Edital]:
@@ -312,15 +288,115 @@ def scrape_mapa_cultura_gov() -> list[Edital]:
     return _scrape_mapas_culturais("https://mapa.cultura.gov.br", "Mapa da Cultura (MinC)")
 
 
+def scrape_jp_cultura() -> list[Edital]:
+    """JP Cultura — Plataforma Municipal de João Pessoa (Mapas Culturais)."""
+    return _scrape_mapas_culturais("https://jpcultura.joaopessoa.pb.gov.br", "JP Cultura")
+
+
+def scrape_sesc_pb() -> list[Edital]:
+    """SESC Paraíba — MusiSesc e outros editais musicais."""
+    url = "https://sescpb.com.br/?s=edital"
+    fonte = "SESC-PB"
+    editais = []
+
+    soup = _get(url)
+    if not soup:
+        raise ConnectionError(f"Falha ao acessar {fonte}")
+
+    for post in soup.select(".wp-block-post, article"):
+        titulo_el = post.select_one(".entry-title a, h2 a, h3 a")
+        if not titulo_el:
+            continue
+        titulo = titulo_el.get_text(strip=True)
+        href = titulo_el.get("href", "")
+        if not titulo or len(titulo) < 5:
+            continue
+        desc = post.get_text(strip=True)
+        prazo = _extrair_prazo(desc)
+        editais.append(Edital(titulo=titulo, fonte=fonte, url=href,
+                              descricao=desc, prazo=prazo))
+
+    return editais
+
+
+def scrape_funjope() -> list[Edital]:
+    """FUNJOPE — Fundação Cultural de João Pessoa."""
+    url = "https://www.joaopessoa.pb.gov.br/noticias/secretarias-e-orgaos/funjope-noticias/"
+    fonte = "FUNJOPE"
+    editais = []
+
+    soup = _get(url)
+    if not soup:
+        raise ConnectionError(f"Falha ao acessar {fonte}")
+
+    kws = ["edital", "chamada", "seleção", "selecao", "inscrição",
+           "inscricao", "convocatória", "premio", "prêmio", "fomento"]
+
+    for post in soup.select("article, .post, .entry"):
+        titulo_el = post.select_one("h2 a, h3 a, .entry-title a")
+        if not titulo_el:
+            continue
+        titulo = titulo_el.get_text(strip=True)
+        href = titulo_el.get("href", "")
+        if not any(kw in titulo.lower() for kw in kws):
+            continue
+        desc = post.get_text(strip=True)
+        prazo = _extrair_prazo(desc)
+        editais.append(Edital(titulo=titulo, fonte=fonte, url=href,
+                              descricao=desc, prazo=prazo))
+
+    # Fallback genérico se não encontrar posts estruturados
+    if not editais:
+        for link_tag in soup.find_all("a", href=True):
+            texto = link_tag.get_text(strip=True)
+            if any(kw in texto.lower() for kw in kws) and len(texto) > 10:
+                editais.append(Edital(
+                    titulo=texto, fonte=fonte,
+                    url=urljoin(url, link_tag["href"])
+                ))
+
+    return editais
+
+
+def scrape_bnb_cultural() -> list[Edital]:
+    """Banco do Nordeste — Programa BNB de Cultura."""
+    url = "https://www.bnb.gov.br/cultura"
+    fonte = "BNB Cultural"
+    editais = []
+
+    soup = _get(url)
+    if not soup:
+        raise ConnectionError(f"Falha ao acessar {fonte}")
+
+    kws = ["edital", "chamada", "seleção", "selecao", "inscrição",
+           "inscricao", "ocupação", "ocupacao"]
+
+    for link_tag in soup.find_all("a", href=True):
+        texto = link_tag.get_text(strip=True)
+        href = link_tag["href"]
+        if not any(kw in texto.lower() for kw in kws):
+            continue
+        if len(texto) < 10:
+            continue
+        link = href if href.startswith("http") else urljoin(url, href)
+        editais.append(Edital(titulo=texto, fonte=fonte, url=link))
+
+    return editais
+
+
 # ---- Registro de todas as fontes ----
 
 FONTES: list[tuple[str, Callable]] = [
     ("Secult-PB", scrape_secult_pb),
     ("Prosas", scrape_prosas),
     ("Funesc-PB", scrape_funesc),
-    ("Viva Usina", scrape_viva_usina),
+    ("Viva Usina", scrape_viva_usina),          # Wix: retorna [], monitorado via hash
     ("Instituto Energisa", scrape_energisa),
     ("Paraíba Criativa", scrape_paraiba_criativa),
+    ("JP Cultura", scrape_jp_cultura),
+    ("SESC-PB", scrape_sesc_pb),
+    ("FUNJOPE", scrape_funjope),
+    ("BNB Cultural", scrape_bnb_cultural),
     ("Secult-PE", scrape_secult_pe),
     ("Mapa Cultural PE", scrape_mapa_cultural_pe),
     ("Mapa Cultural CE", scrape_mapa_cultural_ce),
