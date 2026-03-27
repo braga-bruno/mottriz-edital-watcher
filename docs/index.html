@@ -343,8 +343,8 @@
     <h1>🎸 <span>Mottriz</span> — Monitor de Editais</h1>
     <p class="subtitle">Última execução: 27/03/2026 às 17:24</p>
     <div class="stats-bar">
-      <div class="stat"><strong>7</strong>total</div>
-      <div class="stat"><strong>1</strong>aguardando resultado</div>
+      <div class="stat"><strong>8</strong>total</div>
+      <div class="stat"><strong>2</strong>aguardando resultado</div>
       <div class="stat"><strong>0</strong>novos hoje</div>
       <div class="stat"><strong>1</strong>monitoramentos</div>
       <div class="stat" style="cursor:pointer" onclick="abrirModal()" title="Configurar token GitHub">
@@ -356,8 +356,29 @@
   <main>
     
         <section>
-          <h2 style="color:#d97706">⏳ Aguardando Resultado <span class="count">(1)</span></h2>
+          <h2 style="color:#d97706">⏳ Aguardando Resultado <span class="count">(2)</span></h2>
           <div class="grid">
+    <div class="card" style="--accent:#d97706">
+      <div class="card-header">
+        <span class="badge" style="background:#d97706">⏳ Aguardando Resultado</span>
+        <span class="fonte">Rock Sertão / Sertão na Arte</span>
+      </div>
+      <a class="titulo" href="https://sertaonaarte.com.br/projetos/querotocar" target="_blank" rel="noopener">Campanha Quero Tocar – Festival Rock Sertão 25 Anos</a>
+      <div class="meta">
+        <span>📅 Prazo: <strong>—</strong></span>
+        <span>🔍 Encontrado: 27/03/2026</span>
+      </div>
+      <p class="notas">📝 Inscrição feita. Seleção em 2 etapas: curadoria + votação popular. Resultado não divulgado ainda.</p>
+      
+      <div class="acoes">
+        <button class="btn-acao btn-ignorar" onclick="enviarComando('ignorar', '55cfcb92d432fd80c7e880f0b4ed3bb1', this)">
+          🚫 Ignorar
+        </button>
+        <button class="btn-acao btn-reativar" onclick="enviarComando('ativar', '55cfcb92d432fd80c7e880f0b4ed3bb1', this)">
+          🔔 Voltar a notificado
+        </button>
+      </div>
+    </div>
     <div class="card" style="--accent:#d97706">
       <div class="card-header">
         <span class="badge" style="background:#d97706">⏳ Aguardando Resultado</span>
