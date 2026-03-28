@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-03-27T17:24:48.048003",
+  "last_run": "2026-03-28T13:59:32.342990",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -92,6 +92,518 @@
       "status": "aguardando_resultado",
       "prazo": "2026-06-30",
       "notas": "Inscrito. Processo seletivo continuado, música e outras linguagens. Inscrições até 30/06/2026."
+    },
+    "176e7960be3d7373c9949f1aff915eef": {
+      "titulo": "Edital Agosto das Letras 2024 - Seleção de Propostas",
+      "fonte": "Funesc-PB",
+      "url": "https://funesc.pb.gov.br/editais/edital-agosto-das-letras-2024-selecao-de-propostas",
+      "encontrado_em": "2026-03-28",
+      "status": "notificado",
+      "prazo": null,
+      "notas": ""
+    },
+    "13c62e3279ed5398e8bbf225e4c82751": {
+      "titulo": "EDITAL 60.005/2026 - PRÊMIO JOÃO BALULA 2026 - PNAB CICLO 2 - 2025/2026",
+      "fonte": "JP Cultura",
+      "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/261",
+      "encontrado_em": "2026-03-28",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-04-24 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "21da81afb55f02a65732ca80bbec59f4": {
+      "titulo": "EDITAL 60.004/2026 - PRÊMIO \"PAIXÃO DE CRISTO NOS BAIRROS - 2026\"",
+      "fonte": "JP Cultura",
+      "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/253",
+      "encontrado_em": "2026-03-28",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-02-13 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "8ee6bf1b02bef8f0b1228c368b2cf95a": {
+      "titulo": "EDITAL 60.009/2025 – PRÊMIO CULTURAS POPULARES “MESTRE ZUMBI BAHIA” - PNAB CICLO 2 - 2025/2026",
+      "fonte": "JP Cultura",
+      "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/246",
+      "encontrado_em": "2026-03-28",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-03-06 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "9b730e89301f1b9ace7ee2fd7add4a1b": {
+      "titulo": "CARNAVAL TRADIÇÃO 2026",
+      "fonte": "JP Cultura",
+      "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/242",
+      "encontrado_em": "2026-03-28",
+      "status": "notificado",
+      "prazo": {
+        "date": "2025-12-26 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "2b8ac1a55743af12060f35e5a5193c69": {
+      "titulo": "Apoio às Quadrilhas Juninas 2025",
+      "fonte": "JP Cultura",
+      "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/206",
+      "encontrado_em": "2026-03-28",
+      "status": "notificado",
+      "prazo": {
+        "date": "2025-05-14 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "3cd8e299ae3661a09a7f0f92cd17b61e": {
+      "titulo": "PRÊMIO “PAIXÃO DE CRISTO NOS BAIRROS – 2025”",
+      "fonte": "JP Cultura",
+      "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/203",
+      "encontrado_em": "2026-03-28",
+      "status": "notificado",
+      "prazo": {
+        "date": "2025-03-11 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "ddd7d80d4e9c4edc41051ddf4ec80b2c": {
+      "titulo": "AUDIÇÃO PARA PAIXÃO DE CRISTO 2025",
+      "fonte": "JP Cultura",
+      "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/201",
+      "encontrado_em": "2026-03-28",
+      "status": "notificado",
+      "prazo": {
+        "date": "2025-03-11 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "ce700bec98416f1412aba90bc9ee6904": {
+      "titulo": "PRÊMIO “CARNAVAL TRADIÇÃO 2025”",
+      "fonte": "JP Cultura",
+      "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/197",
+      "encontrado_em": "2026-03-28",
+      "status": "notificado",
+      "prazo": {
+        "date": "2025-01-24 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "32ac9f567e0caf64e22aee35aaf6b54f": {
+      "titulo": "EDITAL 60.014/2024 - Credenciamento de Pareceristas e Julgadores FMC 2024 (PNAB)",
+      "fonte": "JP Cultura",
+      "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/166",
+      "encontrado_em": "2026-03-28",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-08-24 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "5d56c77ee033b5b162c46f6b386f486c": {
+      "titulo": "Premio João Balula - PNAB 2024",
+      "fonte": "JP Cultura",
+      "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/164",
+      "encontrado_em": "2026-03-28",
+      "status": "notificado",
+      "prazo": {
+        "date": "2024-10-09 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "59396e21d3f69c5a889077dfa7f3bdee": {
+      "titulo": "Prêmio Culturas Populares \"Mestre Manoel Baixinho\" - PNAB 2024",
+      "fonte": "JP Cultura",
+      "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/156",
+      "encontrado_em": "2026-03-28",
+      "status": "notificado",
+      "prazo": {
+        "date": "2024-09-30 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "5468224d2e4f490c3744555dc97434d2": {
+      "titulo": "Bolsas Culturais - PNAB 2024",
+      "fonte": "JP Cultura",
+      "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/152",
+      "encontrado_em": "2026-03-28",
+      "status": "notificado",
+      "prazo": {
+        "date": "2024-09-30 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "25d9487e54266c8d47427ee121205a6f": {
+      "titulo": "Fomento a Projetos de Espaços Culturais - PNAB 2024",
+      "fonte": "JP Cultura",
+      "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/150",
+      "encontrado_em": "2026-03-28",
+      "status": "notificado",
+      "prazo": {
+        "date": "2024-09-30 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "3e13e4c6c27b4871011d019cd67cf002": {
+      "titulo": "Prêmio João Balula 2024 - FMC",
+      "fonte": "JP Cultura",
+      "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/110",
+      "encontrado_em": "2026-03-28",
+      "status": "notificado",
+      "prazo": {
+        "date": "2024-07-31 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "8cc5836bfeaf7064fd9cb6872a37373c": {
+      "titulo": "Edital de Fomento FMC 2024",
+      "fonte": "JP Cultura",
+      "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/108",
+      "encontrado_em": "2026-03-28",
+      "status": "notificado",
+      "prazo": {
+        "date": "2024-07-31 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "ed34ef66f69e17e7e384857bd09b942d": {
+      "titulo": "Apoio às Quadrilhas Juninas 2024",
+      "fonte": "JP Cultura",
+      "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/94",
+      "encontrado_em": "2026-03-28",
+      "status": "notificado",
+      "prazo": {
+        "date": "2024-05-17 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "35ce11b64770e750ee662c8de72917a6": {
+      "titulo": "PLANO MUNICIPAL DE CULTURA - CONSULTA PÚBLICA",
+      "fonte": "JP Cultura",
+      "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/92",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": {
+        "date": "2024-05-17 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "3e073f4beb7a8acd2c27664fbfae3d22": {
+      "titulo": "PAIXÃO DE CRISTO NOS BAIRROS 2024",
+      "fonte": "JP Cultura",
+      "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/88",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": {
+        "date": "2024-02-09 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "04127d0a5bb8b397ce78576932f72303": {
+      "titulo": "Audição para Paixão de Cristo 2024",
+      "fonte": "JP Cultura",
+      "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/80",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": {
+        "date": "2024-02-09 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "a0b88f3f12274c99ed1ce73ff3133dad": {
+      "titulo": "FORMULÁRIO DE INSCRIÇÃO NO EDITAL O NOVÍSSIMO CINEMA PARAHYBANO",
+      "fonte": "JP Cultura",
+      "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/37",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": {
+        "date": "2023-10-16 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "ca311b36b27530d2a440888e1d00b0a7": {
+      "titulo": "Edital de Ocupação Artística do Banco do Nordeste recebe inscrições até esta sexta-feira, 28",
+      "fonte": "BNB Cultural",
+      "url": "https://www.bnb.gov.br/web/guest/imprensa/noticias/-/asset_publisher/QGdgGhxvRtMv/content/edital-de-ocupa%25C3%25A7%25C3%25A3o-art%25C3%25ADstica-do-banco-do-nordeste-recebe-inscri%25C3%25A7%25C3%25B5es-at%25C3%25A9-esta-sexta-feira-28/44540?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_366xYbqz1DLK_assetEntryId=8894018&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_366xYbqz1DLK_redirect=https%3A%2F%2Fwww.bnb.gov.br%2Fweb%2Fguest%2Fcultura%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_366xYbqz1DLK%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_366xYbqz1DLK_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_366xYbqz1DLK_assetEntryId%3D8894018",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": null,
+      "notas": ""
+    },
+    "c544eae188757822bd2d6fbaae4b47bf": {
+      "titulo": "EDITAL CULTURA QUE AQUECE MOMBAÇA",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7632",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": {
+        "date": "2026-04-01 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "9ca956dbff05290e69231942e7a0cbfc": {
+      "titulo": "2º EDITAL PEDRO AUGUSTO NETTO",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7625",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": {
+        "date": "2026-04-17 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "5dafff502d384f3384d6f654becd3085": {
+      "titulo": "EDITAL DE CHAMAMENTO PÚBLICO Nº 005/2026 SELEÇÃO DE PROJETOS DA CATEGORIA QUADRILHA JUNINA PARA FIRMAR TERMO DE EXECUÇÃO CULTURAL COM RECURSOS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA – PNAB (LEI Nº 14.399/2022)",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7624",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": {
+        "date": "2026-03-31 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "a04a18800cd2a75722606fc2fb5b60ef": {
+      "titulo": "EDITAL DE CHAMAMENTO PÚBLICO Nº 004/2026 SELEÇÃO DE PROJETOS NA CATEGORIA EVENTOS CULTURAIS PARA FIRMAR TERMO DE EXECUÇÃO CULTURAL COM RECURSOS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA – PNAB (LEI Nº 14.399/2022)",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7623",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": {
+        "date": "2026-03-31 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "cc5e31f8eb9ac7e87d76261080306b11": {
+      "titulo": "EDITAL DE CHAMAMENTO PÚBLICO PARA FOMENTO À PROGRAMAÇÃO DE ESPAÇOS, AMBIENTES E INICIATIVAS ARTÍSTICO CULTURAIS - POLÍTICA NACIONAL ALDIR BLANC - ITAREMA/CE - EDITAL Nº 006/2026-PNAB",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7618",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": {
+        "date": "2026-04-30 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "7d688ef7da9f60c6bb2de977235d1348": {
+      "titulo": "EDITAL DE FOMENTO A AÇÕES ARTÍSTICAS E CULTURAIS - POLÍTICA NACIONAL ALDIR BLANC - ITAREMA/CE - EDITAL Nº 005/2026-PNAB",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7617",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": {
+        "date": "2026-04-30 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "8525ef51238afba20448eb821d4a34a4": {
+      "titulo": "EDITAL 001/2026  EDITAL DE CREDENCIAMENTO DE PARECERISTAS PARA A SECRETARIA DA CULTURA E TURISMO  DE IPAUMIRIM- PNAB CICLO II",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7603",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": {
+        "date": "2026-03-29 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "92a7a7955925facb796a95d771d01f9a": {
+      "titulo": "EDITAL DE APOIO A EQUIPAMENTOS ARTÍSTICO-CULTURAIS DO MUNICÍPIO DE VARJOTA - POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA (PNAB)",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7595",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": {
+        "date": "2026-03-27 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "7f6c82a7fa71ef0299791e464f0088dd": {
+      "titulo": "EDITAL 001/2026 EDITAL DE CREDENCIAMENTO DE PARECERISTAS PARA A SECRETARIA DA CULTURA",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7590",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": {
+        "date": "2026-03-25 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "9d3e33aaec426aa7cce5c713427b5f8a": {
+      "titulo": "1ª Conferência Estadual de Arquivo do Estado do Ceará",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7579",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": {
+        "date": "2026-04-06 12:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "ea628c7edfa2aea35e6f2e3f66cc63bd": {
+      "titulo": "EDITAL DE CREDENCIAMENTO DE PARECERISTAS DOS PROJETOS CULTURAIS INSCRITOS NOS EDITAIS DA POLÍTICA NACIONAL ALDIR BLANC - PNAB NO MUNICÍPIO DE ICAPUÍ - CE.",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7543",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": {
+        "date": "2026-03-31 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "ad232af6f08a1da2ccef88b375fc725d": {
+      "titulo": "EDITAL DE CHAMAMENTO PÚBLICO Nº 0103/2026 - POLITICA NACIONAL  ALDIR BLANC",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7540",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": {
+        "date": "2026-03-18 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "9c7adaf69388b190dba1529483646648": {
+      "titulo": "CHAMAMENTO PÚBLICO Nº 02/2026 - SECULT/IPU - EDITAL DE PREMIAÇÃO CULTURAL",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7538",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": {
+        "date": "2026-03-27 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "10ed92cb3668ee5d4546caece88cff74": {
+      "titulo": "CHAMAMENTO PÚBLICO Nº 01/2026 - SECULT/IPU - EDITAL DE FOMENTO A PROJETOS ARTÍSTICO-CULTURAIS",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7537",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": {
+        "date": "2026-03-27 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "b7d5cd331e4e880211f50a1a7d5f7183": {
+      "titulo": "EDITAL CULTURA QUE MOVE MAURITI - EDIÇÃO 2026",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7529",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": {
+        "date": "2026-03-17 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "67299266bf44d1c0b2faf316ff49047c": {
+      "titulo": "EDITAL DE CHAMAMENTO PÚBLICO Nº 02/2026 - PNAB - CICLO DA SEMANA SANTA",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7527",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": {
+        "date": "2026-03-19 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "995a9c58ca8681b62c802cb12c8a526f": {
+      "titulo": "EDITAL DE FOMENTO A AÇÕES ARTÍSTICAS E CULTURAIS - POLÍTICA NACIONAL ALDIR BLANC - MASSAPÊ/CE - EDITAL Nº 001/2026-PNAB",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7523",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": {
+        "date": "2026-03-27 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "441c008ebede187b6e8bdb8a8fa57d81": {
+      "titulo": "PNAB ICÓ - EDITAL DE CHAMAMENTO PÚBLICO Nº 01/2026 – CICLO 2",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7522",
+      "encontrado_em": "2026-03-28",
+      "status": "novo",
+      "prazo": {
+        "date": "2026-04-06 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
     }
   },
   "monitoramentos": {
@@ -100,29 +612,34 @@
       "fonte": "Secult-PB",
       "adicionado_em": "2026-03-27",
       "status": "aguardando_resultado",
-      "hash_conteudo": null
+      "hash_conteudo": "34dc68fccbadb85e74754c2c5ee0fb96"
     }
   },
   "erros_ultima_execucao": [
     {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-03-27T17:24:07.863653"
+      "timestamp": "2026-03-28T13:46:56.134989"
+    },
+    {
+      "fonte": "FUNJOPE",
+      "erro": "Falha ao acessar FUNJOPE",
+      "timestamp": "2026-03-28T13:47:00.787846"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-03-27T17:24:10.009161"
+      "timestamp": "2026-03-28T13:47:03.555807"
     },
     {
       "fonte": "Mapa Cultural PE",
       "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-03-27T17:24:41.142817"
+      "timestamp": "2026-03-28T13:47:33.873279"
     },
     {
       "fonte": "Mapa da Cultura (MinC)",
       "erro": "Falha ao acessar API Mapa da Cultura (MinC)",
-      "timestamp": "2026-03-27T17:24:43.978550"
+      "timestamp": "2026-03-28T13:47:35.811583"
     }
   ]
 }
