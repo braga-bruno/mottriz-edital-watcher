@@ -1,12 +1,12 @@
 {
-  "last_run": "2026-03-29T13:50:02.956277",
+  "last_run": "2026-03-30T14:24:55.764257",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
       "fonte": "Rock Sertão / Sertão na Arte",
       "url": "https://sertaonaarte.com.br/projetos/querotocar",
       "encontrado_em": "2026-03-27",
-      "status": "aguardando_resultado",
+      "status": "ignorado",
       "prazo": null,
       "notas": "Cachê: R$5.000 global (inclui deslocamento/hospedagem/alimentação). 2 vagas. Curadoria escolhe 6 finalistas → votação popular define 2. Resultado curadoria: 28/03. Votação popular: 31/03–15/04. Resultado final: 17/04."
     },
@@ -24,7 +24,7 @@
       "fonte": "Mapa Cultural CE",
       "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7629",
       "encontrado_em": "2026-03-27",
-      "status": "notificado",
+      "status": "ignorado",
       "prazo": {
         "date": "2026-04-16 12:00:00.000000",
         "timezone_type": 3,
@@ -37,7 +37,7 @@
       "fonte": "Mapa Cultural CE",
       "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7621",
       "encontrado_em": "2026-03-27",
-      "status": "notificado",
+      "status": "ignorado",
       "prazo": {
         "date": "2026-03-27 23:59:00.000000",
         "timezone_type": 3,
@@ -63,7 +63,7 @@
       "fonte": "Mapa Cultural CE",
       "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7582",
       "encontrado_em": "2026-03-27",
-      "status": "notificado",
+      "status": "ignorado",
       "prazo": {
         "date": "2026-04-20 23:59:00.000000",
         "timezone_type": 3,
@@ -76,7 +76,7 @@
       "fonte": "Mapa Cultural CE",
       "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7578",
       "encontrado_em": "2026-03-27",
-      "status": "notificado",
+      "status": "ignorado",
       "prazo": {
         "date": "2026-04-10 23:59:00.000000",
         "timezone_type": 3,
@@ -98,7 +98,7 @@
       "fonte": "Funesc-PB",
       "url": "https://funesc.pb.gov.br/editais/edital-agosto-das-letras-2024-selecao-de-propostas",
       "encontrado_em": "2026-03-28",
-      "status": "notificado",
+      "status": "ignorado",
       "prazo": null,
       "notas": ""
     },
@@ -120,7 +120,7 @@
       "fonte": "JP Cultura",
       "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/253",
       "encontrado_em": "2026-03-28",
-      "status": "notificado",
+      "status": "ignorado",
       "prazo": {
         "date": "2026-02-13 23:59:00.000000",
         "timezone_type": 3,
@@ -133,7 +133,7 @@
       "fonte": "JP Cultura",
       "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/246",
       "encontrado_em": "2026-03-28",
-      "status": "notificado",
+      "status": "ignorado",
       "prazo": {
         "date": "2026-03-06 23:59:00.000000",
         "timezone_type": 3,
@@ -146,7 +146,7 @@
       "fonte": "JP Cultura",
       "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/242",
       "encontrado_em": "2026-03-28",
-      "status": "notificado",
+      "status": "ignorado",
       "prazo": {
         "date": "2025-12-26 23:59:00.000000",
         "timezone_type": 3,
@@ -159,7 +159,7 @@
       "fonte": "JP Cultura",
       "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/206",
       "encontrado_em": "2026-03-28",
-      "status": "notificado",
+      "status": "ignorado",
       "prazo": {
         "date": "2025-05-14 23:59:00.000000",
         "timezone_type": 3,
@@ -172,7 +172,7 @@
       "fonte": "JP Cultura",
       "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/203",
       "encontrado_em": "2026-03-28",
-      "status": "notificado",
+      "status": "ignorado",
       "prazo": {
         "date": "2025-03-11 23:59:00.000000",
         "timezone_type": 3,
@@ -185,7 +185,7 @@
       "fonte": "JP Cultura",
       "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/201",
       "encontrado_em": "2026-03-28",
-      "status": "notificado",
+      "status": "ignorado",
       "prazo": {
         "date": "2025-03-11 23:59:00.000000",
         "timezone_type": 3,
@@ -198,7 +198,7 @@
       "fonte": "JP Cultura",
       "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/197",
       "encontrado_em": "2026-03-28",
-      "status": "notificado",
+      "status": "ignorado",
       "prazo": {
         "date": "2025-01-24 23:59:00.000000",
         "timezone_type": 3,
@@ -211,7 +211,7 @@
       "fonte": "JP Cultura",
       "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/166",
       "encontrado_em": "2026-03-28",
-      "status": "notificado",
+      "status": "ignorado",
       "prazo": {
         "date": "2026-08-24 23:59:00.000000",
         "timezone_type": 3,
@@ -237,7 +237,7 @@
       "fonte": "JP Cultura",
       "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/156",
       "encontrado_em": "2026-03-28",
-      "status": "notificado",
+      "status": "ignorado",
       "prazo": {
         "date": "2024-09-30 23:59:00.000000",
         "timezone_type": 3,
@@ -250,7 +250,7 @@
       "fonte": "JP Cultura",
       "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/152",
       "encontrado_em": "2026-03-28",
-      "status": "notificado",
+      "status": "ignorado",
       "prazo": {
         "date": "2024-09-30 23:59:00.000000",
         "timezone_type": 3,
@@ -276,7 +276,7 @@
       "fonte": "JP Cultura",
       "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/110",
       "encontrado_em": "2026-03-28",
-      "status": "notificado",
+      "status": "ignorado",
       "prazo": {
         "date": "2024-07-31 23:59:00.000000",
         "timezone_type": 3,
@@ -289,7 +289,7 @@
       "fonte": "JP Cultura",
       "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/108",
       "encontrado_em": "2026-03-28",
-      "status": "notificado",
+      "status": "ignorado",
       "prazo": {
         "date": "2024-07-31 23:59:00.000000",
         "timezone_type": 3,
@@ -302,7 +302,7 @@
       "fonte": "JP Cultura",
       "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/94",
       "encontrado_em": "2026-03-28",
-      "status": "notificado",
+      "status": "ignorado",
       "prazo": {
         "date": "2024-05-17 23:59:00.000000",
         "timezone_type": 3,
@@ -619,27 +619,27 @@
     {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-03-29T13:49:23.014366"
+      "timestamp": "2026-03-30T14:24:16.174540"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-03-29T13:49:27.901970"
+      "timestamp": "2026-03-30T14:24:20.299480"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-03-29T13:49:30.288175"
+      "timestamp": "2026-03-30T14:24:22.460041"
     },
     {
       "fonte": "Mapa Cultural PE",
       "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-03-29T13:50:00.620627"
+      "timestamp": "2026-03-30T14:24:52.626897"
     },
     {
       "fonte": "Mapa da Cultura (MinC)",
       "erro": "Falha ao acessar API Mapa da Cultura (MinC)",
-      "timestamp": "2026-03-29T13:50:02.952701"
+      "timestamp": "2026-03-30T14:24:55.760715"
     }
   ]
 }
