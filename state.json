@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-03-30T14:24:55.764257",
+  "last_run": "2026-03-31T14:25:31.972119",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -604,6 +604,32 @@
         "timezone": "America/Fortaleza"
       },
       "notas": ""
+    },
+    "55d5ac5048f1aa2f309b9307ece36970": {
+      "titulo": "EDITAL DE FOMENTO AO CICLO JUNINO DE CHORÓ 2026 POLÍTICA NACIONAL ALDIR BLANC - CHORÓ - EDITAL Nº 01/2026",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7637",
+      "encontrado_em": "2026-03-31",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-04-08 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "906b32e6e40a1c2f7a5073f0ed115ff4": {
+      "titulo": "EDITAL DE FOMENTO A PROJETOS CONTINUADOS DE PONTOS DE CULTURA - PNAB/CICLO 2/2026 - SECULTFOR",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7620",
+      "encontrado_em": "2026-03-31",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-05-15 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
     }
   },
   "monitoramentos": {
@@ -619,27 +645,27 @@
     {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-03-30T14:24:16.174540"
+      "timestamp": "2026-03-31T14:24:45.803624"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-03-30T14:24:20.299480"
+      "timestamp": "2026-03-31T14:24:50.930171"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-03-30T14:24:22.460041"
+      "timestamp": "2026-03-31T14:24:57.582171"
     },
     {
       "fonte": "Mapa Cultural PE",
       "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-03-30T14:24:52.626897"
+      "timestamp": "2026-03-31T14:25:28.271797"
     },
     {
       "fonte": "Mapa da Cultura (MinC)",
       "erro": "Falha ao acessar API Mapa da Cultura (MinC)",
-      "timestamp": "2026-03-30T14:24:55.760715"
+      "timestamp": "2026-03-31T14:25:30.983393"
     }
   ]
 }
