@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-03-31T14:25:31.972119",
+  "last_run": "2026-04-01T14:28:09.924340",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -630,6 +630,19 @@
         "timezone": "America/Fortaleza"
       },
       "notas": ""
+    },
+    "493e668ae204e562da8d892126963036": {
+      "titulo": "EDITAL DE CHAMAMENTO PÚBLICO Nº 01/2026 - JATI-CE",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7640",
+      "encontrado_em": "2026-04-01",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-04-13 18:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
     }
   },
   "monitoramentos": {
@@ -645,27 +658,32 @@
     {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-03-31T14:24:45.803624"
+      "timestamp": "2026-04-01T14:26:56.366513"
+    },
+    {
+      "fonte": "SESC-PB",
+      "erro": "Falha ao acessar SESC-PB",
+      "timestamp": "2026-04-01T14:27:30.554598"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-03-31T14:24:50.930171"
+      "timestamp": "2026-04-01T14:27:31.576769"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-03-31T14:24:57.582171"
+      "timestamp": "2026-04-01T14:27:34.741937"
     },
     {
       "fonte": "Mapa Cultural PE",
       "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-03-31T14:25:28.271797"
+      "timestamp": "2026-04-01T14:28:05.122802"
     },
     {
       "fonte": "Mapa da Cultura (MinC)",
       "erro": "Falha ao acessar API Mapa da Cultura (MinC)",
-      "timestamp": "2026-03-31T14:25:30.983393"
+      "timestamp": "2026-04-01T14:28:09.260801"
     }
   ]
 }
