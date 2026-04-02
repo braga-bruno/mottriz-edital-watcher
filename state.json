@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-01T14:28:09.924340",
+  "last_run": "2026-04-02T14:21:12.614952",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -643,6 +643,32 @@
         "timezone": "America/Fortaleza"
       },
       "notas": ""
+    },
+    "989d2843b00544706ed7b0a18a425016": {
+      "titulo": "EDITAL 60.009/2026 - FOMENTO A OSC - MROSC - PNAB CICLO 2 - 2025/2026",
+      "fonte": "JP Cultura",
+      "url": "https://jpcultura.joaopessoa.pb.gov.br/oportunidade/271",
+      "encontrado_em": "2026-04-02",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-05-22 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "688d37c708e68b3cbf0ed5680be81b0e": {
+      "titulo": "PNAB JAGUARIBARA - EDITAL DE CHAMAMENTO PÚBLICO 05/2026 - DIVERSAS ÁREAS CULTURAIS",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7648",
+      "encontrado_em": "2026-04-02",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-04-20 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
     }
   },
   "monitoramentos": {
@@ -658,32 +684,27 @@
     {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-04-01T14:26:56.366513"
-    },
-    {
-      "fonte": "SESC-PB",
-      "erro": "Falha ao acessar SESC-PB",
-      "timestamp": "2026-04-01T14:27:30.554598"
+      "timestamp": "2026-04-02T14:20:29.099694"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-04-01T14:27:31.576769"
+      "timestamp": "2026-04-02T14:20:34.233215"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-04-01T14:27:34.741937"
+      "timestamp": "2026-04-02T14:20:36.917155"
     },
     {
       "fonte": "Mapa Cultural PE",
       "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-04-01T14:28:05.122802"
+      "timestamp": "2026-04-02T14:21:07.923032"
     },
     {
       "fonte": "Mapa da Cultura (MinC)",
       "erro": "Falha ao acessar API Mapa da Cultura (MinC)",
-      "timestamp": "2026-04-01T14:28:09.260801"
+      "timestamp": "2026-04-02T14:21:11.298488"
     }
   ]
 }
