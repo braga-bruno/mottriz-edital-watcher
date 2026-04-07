@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-06T14:09:38.224146",
+  "last_run": "2026-04-07T14:29:00.464901",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -669,6 +669,19 @@
         "timezone": "America/Fortaleza"
       },
       "notas": ""
+    },
+    "bf9405e5376c85d1c74e82377d88a779": {
+      "titulo": "EDITAL CULTURA E DIVERSIDADE - APOIO À PRODUÇÃO ARTÍSTICA E  CULTURAL DE BREJO SANTO 01/2026",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7679",
+      "encontrado_em": "2026-04-07",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-04-30 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
     }
   },
   "monitoramentos": {
@@ -684,27 +697,27 @@
     {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-04-06T14:08:55.754958"
+      "timestamp": "2026-04-07T14:28:17.803640"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-04-06T14:08:59.972068"
+      "timestamp": "2026-04-07T14:28:23.616571"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-04-06T14:09:04.086616"
+      "timestamp": "2026-04-07T14:28:26.976032"
     },
     {
       "fonte": "Mapa Cultural PE",
       "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-04-06T14:09:34.282245"
+      "timestamp": "2026-04-07T14:28:57.214144"
     },
     {
       "fonte": "Mapa da Cultura (MinC)",
       "erro": "Falha ao acessar API Mapa da Cultura (MinC)",
-      "timestamp": "2026-04-06T14:09:38.220418"
+      "timestamp": "2026-04-07T14:28:59.794738"
     }
   ]
 }
