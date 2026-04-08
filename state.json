@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-07T14:29:00.464901",
+  "last_run": "2026-04-08T14:30:34.439097",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -682,6 +682,32 @@
         "timezone": "America/Fortaleza"
       },
       "notas": ""
+    },
+    "fe28d1429da4734fad0cd9283d81fe37": {
+      "titulo": "EDITAL DE CHAMAMENTO PÚBLICO Nº 02/2026 - SELEÇÃO DE PROJETOS PARA FIRMAR TERMO DE EXECUÇÃO CULTURAL COM RECURSOS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA – PNAB (LEI Nº 14.399/2022)",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7686",
+      "encontrado_em": "2026-04-08",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-05-03 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "6a1f983a31c5bbe8703cf1b729e9ebe0": {
+      "titulo": "EDITAL DE FOMENTO A ATIVIDADES ARTÍSTICAS E CULTURAIS - POLÍTICA NACIONAL ALDIR BLANC EM TEJUÇUOCA/CE - EDITAL Nº 01/2026",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7684",
+      "encontrado_em": "2026-04-08",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-04-21 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
     }
   },
   "monitoramentos": {
@@ -689,35 +715,35 @@
       "titulo": "PNAB — Edital de Fomento a Projetos de Música (Secult-PB)",
       "fonte": "Secult-PB",
       "adicionado_em": "2026-03-27",
-      "status": "aguardando_resultado",
-      "hash_conteudo": "34dc68fccbadb85e74754c2c5ee0fb96"
+      "status": "pagina_alterada",
+      "hash_conteudo": "5a511f48fadb961e26246108ca3f85ac"
     }
   },
   "erros_ultima_execucao": [
     {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-04-07T14:28:17.803640"
+      "timestamp": "2026-04-08T14:29:50.070374"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-04-07T14:28:23.616571"
+      "timestamp": "2026-04-08T14:29:56.324632"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-04-07T14:28:26.976032"
+      "timestamp": "2026-04-08T14:29:59.105132"
     },
     {
       "fonte": "Mapa Cultural PE",
       "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-04-07T14:28:57.214144"
+      "timestamp": "2026-04-08T14:30:29.364028"
     },
     {
       "fonte": "Mapa da Cultura (MinC)",
       "erro": "Falha ao acessar API Mapa da Cultura (MinC)",
-      "timestamp": "2026-04-07T14:28:59.794738"
+      "timestamp": "2026-04-08T14:30:33.100942"
     }
   ]
 }
