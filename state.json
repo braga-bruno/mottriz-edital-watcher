@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-09T14:53:13.183597",
+  "last_run": "2026-04-10T14:15:44.660919",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -708,6 +708,32 @@
         "timezone": "America/Fortaleza"
       },
       "notas": ""
+    },
+    "41a1e9dc8497a265e91473fc6517f024": {
+      "titulo": "EDITAL DE CHAMAMENTO PÚBLICO PARA FOMENTO À PROGRAMAÇÃO DE ESPAÇOS, AMBIENTES E INICIATIVAS ARTÍSTICO CULTURAIS - PNAB GUARACIABA DO NORTE/CE - EDITAL Nº 002/2026-PNAB",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7702",
+      "encontrado_em": "2026-04-10",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-04-30 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "a61b884372e0716ad6de91ca643d524c": {
+      "titulo": "EDITAL DE FOMENTO A AÇÕES ARTÍSTICAS E CULTURAIS - POLÍTICA NACIONAL ALDIR BLANC - GUARACIABA DO NORTE/CE - EDITAL Nº 001/2026-PNAB",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7701",
+      "encontrado_em": "2026-04-10",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-04-30 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
     }
   },
   "monitoramentos": {
@@ -723,32 +749,27 @@
     {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-04-09T14:52:01.568920"
+      "timestamp": "2026-04-10T14:15:01.416768"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-04-09T14:52:07.775597"
+      "timestamp": "2026-04-10T14:15:06.251358"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-04-09T14:52:10.535859"
+      "timestamp": "2026-04-10T14:15:08.911670"
     },
     {
       "fonte": "Mapa Cultural PE",
       "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-04-09T14:52:40.750410"
-    },
-    {
-      "fonte": "Mapa Cultural CE",
-      "erro": "Falha ao acessar API Mapa Cultural CE",
-      "timestamp": "2026-04-09T14:53:12.991996"
+      "timestamp": "2026-04-10T14:15:39.872758"
     },
     {
       "fonte": "Mapa da Cultura (MinC)",
       "erro": "Falha ao acessar API Mapa da Cultura (MinC)",
-      "timestamp": "2026-04-09T14:53:13.180723"
+      "timestamp": "2026-04-10T14:15:43.649784"
     }
   ]
 }
