@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-16T14:52:28.116611",
+  "last_run": "2026-04-17T14:19:14.152087",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -747,6 +747,45 @@
         "timezone": "America/Fortaleza"
       },
       "notas": ""
+    },
+    "426779a951e55706f0696b190a6ff011": {
+      "titulo": "EDITAL MESTRE JOSÉ ALVES SAMPAIO (ZÉ DO PIFE)",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7746",
+      "encontrado_em": "2026-04-17",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-05-10 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "5a5c3ad06bbfec8ff626e309b1dd90ca": {
+      "titulo": "EDITAL Nº 001/2026 – CREDENCIAMENTO DE PARECERISTAS PARA SECRETARIA DE CULTURA E TURISMO DE QUIXERAMOBIM 2026",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7745",
+      "encontrado_em": "2026-04-17",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-04-22 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "6d27168787c6e1ab360f564360f6bf94": {
+      "titulo": "EDITAL DE INCENTIVO AO CICLO JUNINO – APOIO ÀS QUADRILHAS  JUNINAS E GRUPOS DE FORRÓ DE BREJO SANTO - 02/2026",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7727",
+      "encontrado_em": "2026-04-17",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-04-26 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
     }
   },
   "monitoramentos": {
@@ -762,32 +801,27 @@
     {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-04-16T14:51:19.076590"
+      "timestamp": "2026-04-17T14:18:31.853782"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-04-16T14:51:23.950331"
+      "timestamp": "2026-04-17T14:18:36.671982"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-04-16T14:51:25.872013"
+      "timestamp": "2026-04-17T14:18:39.321869"
     },
     {
       "fonte": "Mapa Cultural PE",
       "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-04-16T14:51:56.531068"
-    },
-    {
-      "fonte": "Mapa Cultural CE",
-      "erro": "Falha ao acessar API Mapa Cultural CE",
-      "timestamp": "2026-04-16T14:52:27.939371"
+      "timestamp": "2026-04-17T14:19:09.526583"
     },
     {
       "fonte": "Mapa da Cultura (MinC)",
       "erro": "Falha ao acessar API Mapa da Cultura (MinC)",
-      "timestamp": "2026-04-16T14:52:28.114590"
+      "timestamp": "2026-04-17T14:19:12.818438"
     }
   ]
 }
