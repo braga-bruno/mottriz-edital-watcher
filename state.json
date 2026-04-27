@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-26T14:03:32.526266",
+  "last_run": "2026-04-27T15:03:38.601552",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -864,6 +864,32 @@
         "timezone": "America/Fortaleza"
       },
       "notas": ""
+    },
+    "4afea51837314a00992cd2d24cf149f9": {
+      "titulo": "EDITAL BELANIZA QUEIROZ DE CHAMAMENTO PÚBLICO DE OSCs PARA ELABORAÇÃO E EXECUÇÃO DE PROGRAMAÇÃO ARTÍSTICA E CULTURAL - PROGRAMA DE DIFUSÃO E CIRCULAÇÃO ARTÍSTICO/CULTURAL - POLÍTICA NACIONAL ALDIR BLANC URUOCA/CE - EDITAL Nº 004/2026 - PNAB",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7781",
+      "encontrado_em": "2026-04-27",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-05-01 00:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "159892a1be1ef77f1995e5dd67ce8962": {
+      "titulo": "EDITAL BELANIZA QUEIROZ DE FOMENTO A AÇÕES ARTÍSTICAS E CULTURAIS - POLÍTICA NACIONAL ALDIR BLANC - URUOCA/CE - EDITAL Nº 003/2026-PNAB",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7780",
+      "encontrado_em": "2026-04-27",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-05-01 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
     }
   },
   "monitoramentos": {
@@ -879,27 +905,27 @@
     {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-04-26T14:02:23.955530"
+      "timestamp": "2026-04-27T15:02:45.148290"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-04-26T14:02:58.099058"
+      "timestamp": "2026-04-27T15:02:51.034314"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-04-26T14:02:59.996445"
+      "timestamp": "2026-04-27T15:03:01.805818"
     },
     {
       "fonte": "Mapa Cultural PE",
       "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-04-26T14:03:30.680848"
+      "timestamp": "2026-04-27T15:03:32.838920"
     },
     {
       "fonte": "Mapa da Cultura (MinC)",
       "erro": "Falha ao acessar API Mapa da Cultura (MinC)",
-      "timestamp": "2026-04-26T14:03:32.522764"
+      "timestamp": "2026-04-27T15:03:37.316849"
     }
   ]
 }
