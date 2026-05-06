@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-04T15:08:39.323197",
+  "last_run": "2026-05-06T15:26:14.944791",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -903,6 +903,19 @@
         "timezone": "Etc/GMT+3"
       },
       "notas": ""
+    },
+    "07efc2a229d46684d0e88ebd719bf21d": {
+      "titulo": "EDITAL DE CHAMAMENTO PÚBLICO Nº 004/2026 FOMENTO À MANUTENÇÃO E PROGRAMAÇÃO DE ESPAÇOS, AMBIENTES DE INICIATIVAS CULTURAIS COM RECURSOS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA .",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7797",
+      "encontrado_em": "2026-05-06",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-05-15 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
     }
   },
   "monitoramentos": {
@@ -918,22 +931,22 @@
     {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-05-04T15:07:56.585241"
+      "timestamp": "2026-05-06T15:25:29.818354"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-05-04T15:08:02.063878"
+      "timestamp": "2026-05-06T15:25:33.812311"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-05-04T15:08:04.911981"
+      "timestamp": "2026-05-06T15:25:41.420899"
     },
     {
       "fonte": "Mapa Cultural PE",
       "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-05-04T15:08:35.168813"
+      "timestamp": "2026-05-06T15:26:11.613730"
     }
   ]
 }
