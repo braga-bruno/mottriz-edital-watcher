@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-13T15:41:06.081813",
+  "last_run": "2026-05-14T15:16:12.746929",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -1007,6 +1007,19 @@
         "timezone": "America/Fortaleza"
       },
       "notas": ""
+    },
+    "eef18742a1b839eacd0bb788fb149183": {
+      "titulo": "EDITAL DE FOMENTO A AÇÕES ARTÍSTICAS E CULTURAIS - POLÍTICA NACIONAL ALDIR BLANC - FORQUILHA/CE - EDITAL Nº 001/2026-PNAB",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7844",
+      "encontrado_em": "2026-05-14",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-05-31 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
     }
   },
   "monitoramentos": {
@@ -1020,24 +1033,34 @@
   },
   "erros_ultima_execucao": [
     {
+      "fonte": "Secult-PB",
+      "erro": "Falha ao acessar Secult-PB",
+      "timestamp": "2026-05-14T15:14:57.582957"
+    },
+    {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-05-13T15:40:22.655802"
+      "timestamp": "2026-05-14T15:14:59.549476"
+    },
+    {
+      "fonte": "SESC-PB",
+      "erro": "Falha ao acessar SESC-PB",
+      "timestamp": "2026-05-14T15:15:32.746622"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-05-13T15:40:28.280289"
+      "timestamp": "2026-05-14T15:15:33.635789"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-05-13T15:40:30.898929"
+      "timestamp": "2026-05-14T15:15:36.051453"
     },
     {
       "fonte": "Mapa Cultural PE",
       "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-05-13T15:41:01.098097"
+      "timestamp": "2026-05-14T15:16:07.187796"
     }
   ]
 }
