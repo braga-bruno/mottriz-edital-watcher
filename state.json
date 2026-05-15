@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-14T15:16:12.746929",
+  "last_run": "2026-05-15T15:11:19.530498",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -1020,6 +1020,84 @@
         "timezone": "America/Fortaleza"
       },
       "notas": ""
+    },
+    "fe610eb0a2e51ee8d7a932599f74b039": {
+      "titulo": "PNAB CICLO 2 CUSTÓDIA - EDITAL DE CHAMAMENTO PÚBLICO Nº 001/2026 SELEÇÃO DE PROJETOS CULTURAIS – POLÍTICA NACIONAL ALDIR BLANC (PNAB)",
+      "fonte": "Mapa Cultural PE",
+      "url": "https://www.mapacultural.pe.gov.br/oportunidade/3165",
+      "encontrado_em": "2026-05-15",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-05-22 17:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "cf385c1a45724f2f40fd754621f4f722": {
+      "titulo": "SURUBIM - PNAB CICLO II - EDITAL PARA FOMENTO À EXECUÇÃO DE AÇÕES CULTURAIS (APOIO DIRETO À PROJETOS E MANUTENÇÃO DE ESPAÇOS CULTURAIS)",
+      "fonte": "Mapa Cultural PE",
+      "url": "https://www.mapacultural.pe.gov.br/oportunidade/3135",
+      "encontrado_em": "2026-05-15",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-05-22 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "b97ff398f47be50b7e587982a286d0be": {
+      "titulo": "PNAB CICLO 2 - ARCOVERDE - EDITAL DE CHAMAMENTO PÚBLICO Nº 002/2026 PRÊMIO TRAJETÓRIAS CULTURAIS DE ARCOVERDE",
+      "fonte": "Mapa Cultural PE",
+      "url": "https://www.mapacultural.pe.gov.br/oportunidade/3100",
+      "encontrado_em": "2026-05-15",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-05-15 16:30:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "2aa2f7209908bcbd2b66901836aad865": {
+      "titulo": "CONVOCATÓRIA NACIONAL PERNAMBUCO MEU PAÍS - 2026/2027",
+      "fonte": "Mapa Cultural PE",
+      "url": "https://www.mapacultural.pe.gov.br/oportunidade/3033",
+      "encontrado_em": "2026-05-15",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-04-13 16:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "2891e145572f44246e20c612c2fc96d3": {
+      "titulo": "EDITAL DE CHAMAMENTO PÚBLICO Nº 005/2026 - INTERNACIONALIZAÇÃO",
+      "fonte": "Mapa Cultural PE",
+      "url": "https://www.mapacultural.pe.gov.br/oportunidade/2825",
+      "encontrado_em": "2026-05-15",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-05-04 16:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "8d30ce1678fb38dcb91d80e06d32970d": {
+      "titulo": "Seleção Humilharte PE 2025.",
+      "fonte": "Mapa Cultural PE",
+      "url": "https://www.mapacultural.pe.gov.br/oportunidade/2748",
+      "encontrado_em": "2026-05-15",
+      "status": "notificado",
+      "prazo": {
+        "date": "2025-10-18 03:02:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
     }
   },
   "monitoramentos": {
@@ -1033,34 +1111,19 @@
   },
   "erros_ultima_execucao": [
     {
-      "fonte": "Secult-PB",
-      "erro": "Falha ao acessar Secult-PB",
-      "timestamp": "2026-05-14T15:14:57.582957"
-    },
-    {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-05-14T15:14:59.549476"
-    },
-    {
-      "fonte": "SESC-PB",
-      "erro": "Falha ao acessar SESC-PB",
-      "timestamp": "2026-05-14T15:15:32.746622"
+      "timestamp": "2026-05-15T15:11:00.452314"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-05-14T15:15:33.635789"
+      "timestamp": "2026-05-15T15:11:05.443600"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-05-14T15:15:36.051453"
-    },
-    {
-      "fonte": "Mapa Cultural PE",
-      "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-05-14T15:16:07.187796"
+      "timestamp": "2026-05-15T15:11:09.724231"
     }
   ]
 }
