@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-15T15:11:19.530498",
+  "last_run": "2026-05-16T14:20:43.210278",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -1098,6 +1098,19 @@
         "timezone": "America/Recife"
       },
       "notas": ""
+    },
+    "8908a4fef2c6ca818aed0a4fdc71cd44": {
+      "titulo": "EDITAL DE CHAMAMENTO PÚBLICO Nº 002/2026 - SELEÇÃO DE PROJETOS PARA FIRMAR TERMO DE EXECUÇÃO CULTURAL COM RECURSOS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA - PNAB (LEI Nº 14.399/2022). AMONTADA-CE",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7870",
+      "encontrado_em": "2026-05-16",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-05-24 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
     }
   },
   "monitoramentos": {
@@ -1113,17 +1126,22 @@
     {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-05-15T15:11:00.452314"
+      "timestamp": "2026-05-16T14:20:02.863872"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-05-15T15:11:05.443600"
+      "timestamp": "2026-05-16T14:20:07.464643"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-05-15T15:11:09.724231"
+      "timestamp": "2026-05-16T14:20:09.619214"
+    },
+    {
+      "fonte": "Mapa Cultural PE",
+      "erro": "Falha ao acessar API Mapa Cultural PE",
+      "timestamp": "2026-05-16T14:20:39.950634"
     }
   ]
 }
