@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-19T16:15:58.290173",
+  "last_run": "2026-05-20T16:26:22.987454",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -1124,6 +1124,32 @@
         "timezone": "America/Recife"
       },
       "notas": ""
+    },
+    "8df000f2787b83535d87286112ffec2a": {
+      "titulo": "EDITAL DE FOMENTO ÀS QUADRILHAS JUNINAS POLÍTICA NACIONAL ALDIR BLANC - CANINDÉ - EDITAL Nº 02/2026 - CONSULTA PÚBLICA",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7894",
+      "encontrado_em": "2026-05-20",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-05-29 12:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "b13eb10f84f66804010fef97bda4252d": {
+      "titulo": "EDITAL DE FOMENTO ÀS QUADRILHAS JUNINAS – POLÍTICA NACIONAL ALDIR BLANC – MASSAPÊ/CE – EDITAL Nº 002/2026 – PNAB QUADRILHAS JUNINAS",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7893",
+      "encontrado_em": "2026-05-20",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-05-26 12:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
     }
   },
   "monitoramentos": {
@@ -1139,22 +1165,22 @@
     {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-05-19T16:15:12.276045"
+      "timestamp": "2026-05-20T16:25:40.935742"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-05-19T16:15:17.405151"
+      "timestamp": "2026-05-20T16:25:44.436382"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-05-19T16:15:20.067617"
+      "timestamp": "2026-05-20T16:25:47.616132"
     },
     {
       "fonte": "Mapa Cultural PE",
       "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-05-19T16:15:50.457619"
+      "timestamp": "2026-05-20T16:26:18.412159"
     }
   ]
 }
