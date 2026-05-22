@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-21T16:14:03.496348",
+  "last_run": "2026-05-22T15:47:07.218688",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -1150,6 +1150,19 @@
         "timezone": "America/Fortaleza"
       },
       "notas": ""
+    },
+    "30e3446e013abfd10c6a788b583611aa": {
+      "titulo": "EDITAL DE FOMENTO ÀS ARTES DE PARAMOTI  - 2026 POLÍTICA NACIONAL ALDIR BLANC - PARAMOTI - EDITAL Nº 01/2026",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7930",
+      "encontrado_em": "2026-05-22",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-05-30 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
     }
   },
   "monitoramentos": {
@@ -1165,22 +1178,22 @@
     {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-05-21T16:13:22.832408"
+      "timestamp": "2026-05-22T15:46:20.333092"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-05-21T16:13:27.243684"
+      "timestamp": "2026-05-22T15:46:25.442663"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-05-21T16:13:29.460794"
+      "timestamp": "2026-05-22T15:46:29.831376"
     },
     {
       "fonte": "Mapa Cultural PE",
       "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-05-21T16:13:59.633406"
+      "timestamp": "2026-05-22T15:47:00.210336"
     }
   ]
 }
