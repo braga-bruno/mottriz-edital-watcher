@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-03T17:58:44.577689",
+  "last_run": "2026-06-04T16:19:47.248488",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -1293,6 +1293,32 @@
         "timezone": "America/Fortaleza"
       },
       "notas": ""
+    },
+    "7d4e2568bb77fade75bc8c44214c6022": {
+      "titulo": "Secretaria de Cultura de Tabuleiro do Norte EDITAL DE CHAMAMENTO PÚBLICO Nº 01/2026. SELEÇÃO DE PROJETOS PARA FIRMAR TERMO DE EXECUÇÃO CULTURAL COM RECURSOS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA – PNAB (LEI Nº 14.399/2022 – Ciclo 2).",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/7995",
+      "encontrado_em": "2026-06-04",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-06-23 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "fe1ddd27544aae42f04d8f153611305c": {
+      "titulo": "LUIZ ALVES - PNAB - EDITAL DE CHAMAMENTO PÚBLICO Nº 30/2026",
+      "fonte": "Mapa da Cultura (MinC)",
+      "url": "https://mapa.cultura.gov.br/oportunidade/7960",
+      "encontrado_em": "2026-06-04",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-07-15 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "Etc/GMT+3"
+      },
+      "notas": ""
     }
   },
   "monitoramentos": {
@@ -1306,24 +1332,29 @@
   },
   "erros_ultima_execucao": [
     {
+      "fonte": "Funesc-PB",
+      "erro": "Falha ao acessar Funesc-PB",
+      "timestamp": "2026-06-04T16:19:05.768421"
+    },
+    {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-06-03T17:58:00.799650"
+      "timestamp": "2026-06-04T16:19:06.087324"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-06-03T17:58:05.177101"
+      "timestamp": "2026-06-04T16:19:10.300417"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-06-03T17:58:07.756776"
+      "timestamp": "2026-06-04T16:19:12.900724"
     },
     {
       "fonte": "Mapa Cultural PE",
       "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-06-03T17:58:38.498884"
+      "timestamp": "2026-06-04T16:19:43.215662"
     }
   ]
 }
