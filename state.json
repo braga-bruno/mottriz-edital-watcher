@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-09T15:51:25.055965",
+  "last_run": "2026-06-10T16:31:12.394888",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -1358,6 +1358,19 @@
         "timezone": "Etc/GMT+3"
       },
       "notas": ""
+    },
+    "5ea89a3d740d4776df1f1e50423c98c0": {
+      "titulo": "EDITAL Nº 001/2026 DE FOMENTO PARA LINGUAGENS ARTÍSTICO-CULTURAIS DO MUNICÍPIO DE MORAÚJO - POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA (PNAB)",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/8015",
+      "encontrado_em": "2026-06-10",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-10-26 12:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
     }
   },
   "monitoramentos": {
@@ -1366,34 +1379,29 @@
       "fonte": "Secult-PB",
       "adicionado_em": "2026-03-27",
       "status": "pagina_alterada",
-      "hash_conteudo": "414242a8f8f58e756daa7b679a7700c7"
+      "hash_conteudo": "8797f2a1ee785b48ce96c207fa450903"
     }
   },
   "erros_ultima_execucao": [
     {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-06-09T15:50:15.823368"
+      "timestamp": "2026-06-10T16:30:28.559150"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-06-09T15:50:19.525980"
+      "timestamp": "2026-06-10T16:30:34.110118"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-06-09T15:50:22.107615"
+      "timestamp": "2026-06-10T16:30:37.547850"
     },
     {
       "fonte": "Mapa Cultural PE",
       "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-06-09T15:50:52.899708"
-    },
-    {
-      "fonte": "Mapa Cultural CE",
-      "erro": "Falha ao acessar API Mapa Cultural CE",
-      "timestamp": "2026-06-09T15:51:23.480116"
+      "timestamp": "2026-06-10T16:31:07.940942"
     }
   ]
 }
