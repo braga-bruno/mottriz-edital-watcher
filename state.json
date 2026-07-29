@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-28T15:15:13.030681",
+  "last_run": "2026-07-29T15:30:37.326938",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -1618,6 +1618,45 @@
         "timezone": "America/Fortaleza"
       },
       "notas": ""
+    },
+    "c03c7b22daa8d9da8adf537f0ab6fdff": {
+      "titulo": "EDITAL DE CHAMAMENTO PÚBLICO Nº 002/2026 - SELEÇÃO DE PROJETOS PARA FIRMAR TERMO DE EXECUÇÃO CULTURAL COM RECURSOS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA – PNAB (LEI Nº 14.399/2022 – Ciclo 2)",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/8175",
+      "encontrado_em": "2026-07-29",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-08-03 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "87e3a8b8f9ce7a7326dbaafedf9dec1a": {
+      "titulo": "EDITAL DE CHAMAMENTO PÚBLICO Nº 003/2026 – APOIO A FESTIVAIS CULTURAIS DE TRAIRI - SELEÇÃO DE PROJETOS PARA FIRMAR TERMO DE EXECUÇÃO CULTURAL COM RECURSOS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA – PNAB (LEI Nº 14.399/2022)",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/8172",
+      "encontrado_em": "2026-07-29",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-08-14 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "a7e0e35860a3df7ef7428a422d7be09c": {
+      "titulo": "SELEÇÃO DE PROJETOS CULTURAIS PARA RECEBEREM APOIO FINANCEIRO, POR MEIO DA CELEBRAÇÃO DE TERMO DE EXECUÇÃO CULTURAL COM RECURSOS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA – PNAB (LEI Nº 14.399/2022), MUNICÍPIO DE JIJOCA DE JERICOACOARA/CE.",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/8085",
+      "encontrado_em": "2026-07-29",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-08-06 23:55:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
     }
   },
   "monitoramentos": {
@@ -1626,34 +1665,34 @@
       "fonte": "Secult-PB",
       "adicionado_em": "2026-03-27",
       "status": "pagina_alterada",
-      "hash_conteudo": "e8157e9a5411a398554229e7e0d017ff"
+      "hash_conteudo": "470ded7a1c0203b25d86a6d558b2221e"
     }
   },
   "erros_ultima_execucao": [
     {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-07-28T15:14:35.327900"
+      "timestamp": "2026-07-29T15:29:57.703787"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-07-28T15:14:38.301804"
+      "timestamp": "2026-07-29T15:30:00.700733"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-07-28T15:14:40.570786"
+      "timestamp": "2026-07-29T15:30:03.459870"
     },
     {
       "fonte": "Mapa Cultural PE",
       "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-07-28T15:15:10.744402"
+      "timestamp": "2026-07-29T15:30:33.655024"
     },
     {
       "fonte": "Mapa da Cultura (MinC)",
       "erro": "Falha ao acessar API Mapa da Cultura (MinC)",
-      "timestamp": "2026-07-28T15:15:12.609096"
+      "timestamp": "2026-07-29T15:30:35.927100"
     }
   ]
 }
