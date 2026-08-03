@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-02T14:25:37.842600",
+  "last_run": "2026-08-03T15:39:38.693069",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -1696,6 +1696,45 @@
         "timezone": "America/Fortaleza"
       },
       "notas": ""
+    },
+    "ad3dd335dea79cfc5939f9d5830b105b": {
+      "titulo": "POLÍTICA NACIONAL ALDIR BLANC (PNAB) CICLO 2 - EDITAL DE CHAMAMENTO PÚBLICO Nº 004/2026 SELEÇÃO DE PROJETOS CULTURAIS",
+      "fonte": "Mapa Cultural PE",
+      "url": "https://www.mapacultural.pe.gov.br/oportunidade/3233",
+      "encontrado_em": "2026-08-03",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-06-12 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "a5bfdcc1ff9a89c5cab6004bf1908794": {
+      "titulo": "CICLO 2 PNAB CUSTODIA - EDITAL DE CHAMAMENTO PÚBLICO Nº 002/2026 SELEÇÃO DE PROJETOS CULTURAIS – POLÍTICA NACIONAL ALDIR BLANC (PNAB)",
+      "fonte": "Mapa Cultural PE",
+      "url": "https://www.mapacultural.pe.gov.br/oportunidade/3210",
+      "encontrado_em": "2026-08-03",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-05-29 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Recife"
+      },
+      "notas": ""
+    },
+    "74c84083095b5bb2893931f3e1bb21d9": {
+      "titulo": "Edital 012/2026 - Economia Criativa - PNAB Pacajus",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/8192",
+      "encontrado_em": "2026-08-03",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-08-07 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
     }
   },
   "monitoramentos": {
@@ -1704,34 +1743,29 @@
       "fonte": "Secult-PB",
       "adicionado_em": "2026-03-27",
       "status": "pagina_alterada",
-      "hash_conteudo": "a02ca133ff3a7f94ecc0f735a89f0a4a"
+      "hash_conteudo": "a8c35b883bdf9bfdce1b17ad382a7744"
     }
   },
   "erros_ultima_execucao": [
     {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-08-02T14:24:59.163294"
+      "timestamp": "2026-08-03T15:39:20.968305"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-08-02T14:25:02.673775"
+      "timestamp": "2026-08-03T15:39:25.192878"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-08-02T14:25:05.621551"
-    },
-    {
-      "fonte": "Mapa Cultural PE",
-      "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-08-02T14:25:35.840149"
+      "timestamp": "2026-08-03T15:39:32.579594"
     },
     {
       "fonte": "Mapa da Cultura (MinC)",
       "erro": "Falha ao acessar API Mapa da Cultura (MinC)",
-      "timestamp": "2026-08-02T14:25:37.839585"
+      "timestamp": "2026-08-03T15:39:36.744980"
     }
   ]
 }
