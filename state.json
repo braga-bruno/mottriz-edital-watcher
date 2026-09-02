@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-01T17:06:33.576536",
+  "last_run": "2026-09-02T16:59:34.285844",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -2034,6 +2034,19 @@
         "timezone": "America/Fortaleza"
       },
       "notas": ""
+    },
+    "a276429da9b572c4687a293215eb3bbc": {
+      "titulo": "EDITAL Nº 04/2026 DE FORMAÇÃO ARTÍSTICA E CULTURAL PROFESSORA NILZETE NOBRE",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/8320",
+      "encontrado_em": "2026-09-02",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-09-14 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
     }
   },
   "monitoramentos": {
@@ -2047,29 +2060,44 @@
   },
   "erros_ultima_execucao": [
     {
+      "fonte": "Secult-PB",
+      "erro": "Falha ao acessar Secult-PB",
+      "timestamp": "2026-09-02T16:57:51.753542"
+    },
+    {
+      "fonte": "Funesc-PB",
+      "erro": "Falha ao acessar Funesc-PB",
+      "timestamp": "2026-09-02T16:58:22.745449"
+    },
+    {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-09-01T17:05:51.113979"
+      "timestamp": "2026-09-02T16:58:23.140426"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-09-01T17:05:55.483767"
+      "timestamp": "2026-09-02T16:58:27.768414"
+    },
+    {
+      "fonte": "BNB Cultural",
+      "erro": "Falha ao acessar BNB Cultural",
+      "timestamp": "2026-09-02T16:58:58.945170"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-09-01T17:05:58.392828"
+      "timestamp": "2026-09-02T16:58:59.172176"
     },
     {
       "fonte": "Mapa Cultural PE",
       "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-09-01T17:06:29.308777"
+      "timestamp": "2026-09-02T16:59:29.582282"
     },
     {
       "fonte": "Mapa da Cultura (MinC)",
       "erro": "Falha ao acessar API Mapa da Cultura (MinC)",
-      "timestamp": "2026-09-01T17:06:32.334023"
+      "timestamp": "2026-09-02T16:59:33.590331"
     }
   ]
 }
