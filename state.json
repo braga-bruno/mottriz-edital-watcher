@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-14T17:44:26.353828",
+  "last_run": "2026-10-15T17:33:29.490062",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -2237,29 +2237,29 @@
       "fonte": "Secult-PB",
       "adicionado_em": "2026-03-27",
       "status": "pagina_alterada",
-      "hash_conteudo": "d8c61ef74f1bab5ebd5532c3aa674e74"
+      "hash_conteudo": "a8dd636b89aeff4cbbf20dceac49d4d9"
     }
   },
   "erros_ultima_execucao": [
     {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-10-14T17:43:45.710471"
+      "timestamp": "2026-10-15T17:32:44.992567"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-10-14T17:43:50.021598"
+      "timestamp": "2026-10-15T17:32:50.319729"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-10-14T17:43:52.451108"
+      "timestamp": "2026-10-15T17:32:54.056841"
     },
     {
       "fonte": "Mapa Cultural PE",
       "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-10-14T17:44:23.338965"
+      "timestamp": "2026-10-15T17:33:24.449358"
     }
   ]
 }
