@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-15T17:33:29.490062",
+  "last_run": "2026-10-16T17:10:03.397441",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -2229,6 +2229,32 @@
         "timezone": "America/Fortaleza"
       },
       "notas": ""
+    },
+    "ff96241ef4442ec2900ee916e449a2e0": {
+      "titulo": "EDITAL DE CHAMAMENTO PÚBLICO Nº 009/2026 POLÍTICA NACIONAL ALDIR BLANC (PNAB) CICLO II - SECULT CHOROZINHO EDITAL FESTIVAL CULTURAL ITINERANTE – 2026",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/8431",
+      "encontrado_em": "2026-10-16",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-10-19 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "63ceeb34ad44ed31da87ba05bef26f80": {
+      "titulo": "EDITAL DE CHAMAMENTO PÚBLICO Nº 008/2026 POLÍTICA NACIONAL ALDIR BLANC (PNAB) - SECULT CHOROZINHO CICLO FORMATIVO ´´SABERES E FAZERES´´ - 2026",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/8430",
+      "encontrado_em": "2026-10-16",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-10-19 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
     }
   },
   "monitoramentos": {
@@ -2242,24 +2268,34 @@
   },
   "erros_ultima_execucao": [
     {
+      "fonte": "Secult-PB",
+      "erro": "Falha ao acessar Secult-PB",
+      "timestamp": "2026-10-16T17:08:47.596957"
+    },
+    {
+      "fonte": "Funesc-PB",
+      "erro": "Falha ao acessar Funesc-PB",
+      "timestamp": "2026-10-16T17:09:18.561139"
+    },
+    {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-10-15T17:32:44.992567"
+      "timestamp": "2026-10-16T17:09:19.586513"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-10-15T17:32:50.319729"
+      "timestamp": "2026-10-16T17:09:23.771023"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-10-15T17:32:54.056841"
+      "timestamp": "2026-10-16T17:09:27.122627"
     },
     {
       "fonte": "Mapa Cultural PE",
       "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-10-15T17:33:24.449358"
+      "timestamp": "2026-10-16T17:09:58.001880"
     }
   ]
 }
