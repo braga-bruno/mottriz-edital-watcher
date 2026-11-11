@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-10T20:10:16.245872",
+  "last_run": "2026-11-11T19:58:07.415444",
   "editais": {
     "55cfcb92d432fd80c7e880f0b4ed3bb1": {
       "titulo": "Campanha Quero Tocar – Festival Rock Sertão 25 Anos",
@@ -2398,6 +2398,32 @@
         "timezone": "America/Fortaleza"
       },
       "notas": ""
+    },
+    "28a7682b62257985db12c6d2f1c26a6c": {
+      "titulo": "PREMIAÇÃO DOS GRUPOS TRADICIONAIS E MESTRES DA CULTURA DE NOVA OLINDA",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/8495",
+      "encontrado_em": "2026-11-11",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-11-19 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
+    },
+    "a73731bd6fc4f3d2f5c63ae3600de738": {
+      "titulo": "EDITAL DE CHAMAMENTO PÚBLICO Nº 03/2026 - SELEÇÃO DE AGENTES TERRITORIAIS DE CULTURA PARA FIRMAR TERMO DE BOLSA CULTURAL COM RECURSOS DA POLÍTICA NACIONAL ALDIR BLANC DE FOMENTO À CULTURA - PNAB (LEI Nº 14.399/2022)",
+      "fonte": "Mapa Cultural CE",
+      "url": "https://mapacultural.secult.ce.gov.br/oportunidade/8494",
+      "encontrado_em": "2026-11-11",
+      "status": "notificado",
+      "prazo": {
+        "date": "2026-11-26 23:59:00.000000",
+        "timezone_type": 3,
+        "timezone": "America/Fortaleza"
+      },
+      "notas": ""
     }
   },
   "monitoramentos": {
@@ -2406,34 +2432,34 @@
       "fonte": "Secult-PB",
       "adicionado_em": "2026-03-27",
       "status": "pagina_alterada",
-      "hash_conteudo": "81673331a4520a0ae4f79c453954b155"
+      "hash_conteudo": "314ef25db61913ef821f35f5c99cff4e"
     }
   },
   "erros_ultima_execucao": [
     {
       "fonte": "Funesc-PB",
       "erro": "Falha ao acessar Funesc-PB",
-      "timestamp": "2026-11-10T20:09:31.504580"
+      "timestamp": "2026-11-11T19:57:27.430243"
     },
     {
       "fonte": "Instituto Energisa",
       "erro": "Falha ao acessar Instituto Energisa",
-      "timestamp": "2026-11-10T20:09:31.817213"
+      "timestamp": "2026-11-11T19:57:27.484784"
     },
     {
       "fonte": "FUNJOPE",
       "erro": "Falha ao acessar FUNJOPE",
-      "timestamp": "2026-11-10T20:09:36.318663"
+      "timestamp": "2026-11-11T19:57:31.083646"
     },
     {
       "fonte": "Secult-PE",
       "erro": "Falha ao acessar Secult-PE",
-      "timestamp": "2026-11-10T20:09:38.731334"
+      "timestamp": "2026-11-11T19:57:33.426627"
     },
     {
       "fonte": "Mapa Cultural PE",
       "erro": "Falha ao acessar API Mapa Cultural PE",
-      "timestamp": "2026-11-10T20:10:08.952264"
+      "timestamp": "2026-11-11T19:58:03.617441"
     }
   ]
 }
